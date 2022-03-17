@@ -1,0 +1,127 @@
+body {
+    background: #0f3057;
+    overflow-x: hidden;
+    
+}
+
+a, a:hover,a:visited, a:focus {
+    text-decoration:none;
+}
+
+.card-signin {
+    border: 0;
+    border-radius: 1rem;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.card-icon {
+    font-size: 5.5rem;
+    text-align: center;
+    color: #00587a;
+}
+
+.card-signin .card-title {
+    margin-bottom: 2rem;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.card-signin .card-body {
+    padding: 1.5rem 2rem;
+}
+
+.form-signin {
+    width: 100%;
+}
+
+.form-signin .btn {
+    font-size: 80%;
+    border-radius: 5rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+    padding: 1rem;
+    transition: all 0.2s;
+}
+
+.form-label-group {
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.form-label-group input {
+    height: auto;
+    border-radius: 2rem;
+    padding: 12px 18px 12px 18px;
+    font-weight: 600;
+}
+
+/* Styles for placeholder*/
+.form-label-group input::-webkit-input-placeholder {
+    color: #909090;
+}
+
+.form-label-group input:-ms-input-placeholder {
+    color: #909090;
+}
+
+.form-label-group input::-ms-input-placeholder {
+    color: #909090;
+}
+
+.form-label-group input::-moz-placeholder {
+    color: #909090;
+}
+
+.form-label-group input::placeholder {
+    color: #909090;
+}
+
+
+.btn {
+    background-color: #00587a;
+    color: #fbfbf7;
+}
+
+.btn:hover {
+    background-color: #008891;
+}
+
+.forget-pw {
+    font-weight: 400;
+    margin-left: 0.5rem;
+}
+
+/*===================================Media Queries=============================*/
+
+@media (max-width: 448px) {
+    .homelink{
+        display: none;
+    }
+    .login-section{
+        margin-top: 10%;
+    }
+}
+
+@media (max-width: 576px) {
+    .homelink{
+        display: none;
+    }
+    .login-section{
+        margin-top: 15%;
+    }
+}
+
+@media (max-width: 768px) {
+    .homelink{
+        display: none;
+    }
+    .login-section{
+        margin-top: 16%;
+    }
+}
+
+@media (max-width: 992px) {
+    .homelink{
+        display: none;
+    }
+}
