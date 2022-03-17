@@ -60,16 +60,8 @@ The system has major four roles; Traffic Police Admin, Traffic Police Officer, V
 
 ## Police Officer Mobile Application Screenshots
 
-<img src="screenshots/mp1.jpg"><br>
-
-<img src="screenshots/mp2.jpg"><br>
-
-<img src="screenshots/mp3.jpg"><br><br><br>
+<img src="screenshots/mp1.jpg" width="200" height="auto"> <img src="screenshots/mp2.jpg" width="200" height="auto"> <img src="screenshots/mp3.jpg" width="200" height="auto"><br><br><br>
 
 ## Driver Mobile Application Screenshots
 
-<img src="screenshots/md1.jpg"><br>
-
-<img src="screenshots/md2.jpg"><br>
-
-<img src="screenshots/md3.jpg"><br><br><br>
+<img src="screenshots/md1.jpg" width="200" height="auto"> <img src="screenshots/md2.jpg" width="200" height="auto"> <img src="screenshots/md3.jpg" width="200" height="auto"><br><br><br>
