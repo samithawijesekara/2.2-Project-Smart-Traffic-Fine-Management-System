@@ -6,8 +6,17 @@ Generally, we know that road traffic violations are occurring while driving on t
 
 The system has major four roles; Traffic Police Admin, Traffic Police Officer, Vehicle Driver, and Department of Motor Traffic. The police officer & vehicle driver has the mobile app & web application, traffic police admin, and department of motor traffic have the web portal.
 
-✔️ Function 1.<br>
 
+## Functionalities
+✔️ User Login<br>
+✔️ User Registration<br>
+✔️ Forgot Password<br>
+✔️ Issuing New Fine<br>
+✔️ Profile Maintenance<br>
+✔️ Fine Payments Through Online Payment Gateway<br>
+✔️ User Views<br>
+✔️ Data Add, Edit, Delete, View Functionalities<br>
+✔️ Table data Search, Sort, Download (as CSV, PDF, Excel) & Print Option<br>
 
 ## Used Technologies
 ✔️ PHP<br>
