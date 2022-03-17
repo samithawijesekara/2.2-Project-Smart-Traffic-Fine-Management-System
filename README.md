@@ -1,5 +1,7 @@
 # 2.2-Project-Smart-Traffic-Fine-Management-System
 
+<img src="screenshots/1.JPG">
+
 Generally, we know that road traffic violations are occurring while driving on the road. If there is a violation caught by the traffic police officers, they will definitely make a fine according to the violation. So, we know that this process is based on paper works, a manual paying system, and a temporary driver has to hand over the license to a police officer and this process takes more time. Therefore, we have proposed our system to make it smart other than using the normal process. 
 
 The system has major four roles; Traffic Police Admin, Traffic Police Officer, Vehicle Driver, and Department of Motor Traffic. The police officer & vehicle driver has the mobile app & web application, traffic police admin, and department of motor traffic have the web portal.
@@ -28,3 +30,21 @@ The system has major four roles; Traffic Police Admin, Traffic Police Officer, V
 
 
 ## Screenshots
+
+<img src="screenshots/2.JPG"><br>
+
+<img src="screenshots/3.JPG"><br>
+
+<img src="screenshots/4.JPG"><br>
+
+<img src="screenshots/5.JPG"><br>
+
+<img src="screenshots/6.JPG"><br>
+
+<img src="screenshots/7.JPG"><br>
+
+<img src="screenshots/8.JPG"><br>
+
+<img src="screenshots/9.JPG"><br>
+
+<img src="screenshots/10.JPG"><br>
